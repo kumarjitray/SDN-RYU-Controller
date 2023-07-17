@@ -9,8 +9,8 @@
 ### Environment and Technologies
 * Ubuntu
 * Python
-* Ryu
-* Wireshark
+* Ryu [https://ryu.readthedocs.io/en/latest/getting_started.html]
+* Wireshark [https://www.wireshark.org/]
 * Mininet [https://opennetworking.org/mininet/]
 
 <br>
